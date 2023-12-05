@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+The project involves a straightforward Python script designed to guide users through the process of securely erasing (zeroing out) connected drives on their system. This utility enables users to designate the target disk and specify the desired number of passes for the erasure. The Python script dynamically generates a diskpart script file according to the user's preferences and subsequently initiates Diskpart to execute the disk sanitization procedure.
 <br />
 
 
